@@ -1,4 +1,9 @@
-![](https://komarev.com/ghpvc/?username=FZFR)
+![](https://komarev.com/ghpvc/?username=FZFR)  
+![My Therapist Approved](https://img.shields.io/badge/Therapist%20Approved-100%25-brightgreen)  
+![Self-Certified Sane](https://img.shields.io/badge/Self--Certified-100%25%20Sane-success)    
+![Managed: Day-to-day](https://img.shields.io/badge/Coping-Managed%3A%20Day--to--day-blueviolet)  
+![Living My Best Life](https://img.shields.io/badge/Vibe%20Check-Living%20My%20Best%20Life-9cf)  
+
 
 <div align="center">
   <h1>Hi 👋, I'm FZFR, you can call me Z</h1>
