@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=FZFR)
 
 <div align="center">
-  <h1>Hi 👋, I'm FZFR, you can call me Zza</h1>
+  <h1>Hi 👋, I'm FZFR, you can call me Z</h1>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
