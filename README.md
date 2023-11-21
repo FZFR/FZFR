@@ -17,11 +17,11 @@
 Heya! I'm a guy who codes in both low-level and high-level languages. I have 8+ years of experience as a technology professional in the IT industry, but I don't claim to be an elite hacker manipulating butterflies to direct cosmic rays onto my hard drive platter or anything like that. I'm just a 0.01xer night owl peasant whose brain has a hard time shutting off.
 
 ## 🛠 Technical Skills
-- Languages: Rust, Go, C, C++, C#, Java, Python, R, Sundanese, Javanese, Bahasa Indonesia, English, etc. I'm pretty much a polyglot.
+- Languages: Assembly, Rust, Go, C, C++, C#, Java, Python, R, Sundanese, Javanese, Bahasa Indonesia, English, etc. I'm pretty much a polyglot. Jack of all trades, master of none — though I cook up the tastiest code recipes with Rust, Go, and C# as my secret ingredients.
 - Frameworks: Spring Boot, React, Node.js, Rocket, Actix, Warp - Name a framework, I've likely used it.
-- Cloud: AWS, GCP, Azure, DO, Vultr, Hetzner, BiznetGio, IDCloudhost, all of 'em - If it runs on *nix I can architect cloud-native infrastructure, leveraging HA best practices with automatic failover capabilities.
+- Cloud: AWS, GCP, Azure, DO, Vultr, Hetzner, Eranyacloud, BiznetGio, IDCloudhost, all of 'em - If it runs on *nix I can architect cloud-native infrastructure, leveraging HA best practices with automatic failover capabilities.
 - Databases: PostgreSQL, MySQL, MongoDB, Neo4j, etc. I use whatever works best for the project.   
-- Tools: Git, Docker, Kubernetes, Linux, etc. I have a tool for every task, call me the Toolman Taylor.  
+- Tools: Git, Docker, Kubernetes, Ansible, Terraform, Linux, EnergyPlus, OpenFOAM, CODESYS, etc. I have a tool for every task. Also, mechanical keyboard with blue switches for that symphony of clickity-clackity tunes.
 
 ## 🚀 Projects
 
