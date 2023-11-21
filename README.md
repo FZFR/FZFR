@@ -31,6 +31,14 @@ I have some cool confidential projects in the works that leverage my engineering
 
 You can find my CV and resume: [Fazza Fakhri](https://fazza.fr)  
 
+## 📜 Conference Proceedings
+
+**IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)**
+
+[Design of Self-Balancing Virtual Reality Robot Using PID Control Method and Complementary Filter](https://ieeexplore.ieee.org/document/9532576)
+
+Published paper presenting the design of a self-balancing robot using PID and complementary filter methods, with virtual reality capabilities.
+
 ## 🤝 Let's Connect
 
 - LinkedIn: [Fazza Fakhri](https://www.linkedin.com/in/fazzafakhri/)
