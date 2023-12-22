@@ -34,7 +34,7 @@ I have some cool confidential projects in the works that leverage my engineering
 
 ## 📃 CV and Resume  
 
-You can find my CV and resume: [Fazza Fakhri](https://fazza.fr)  
+You can find my CV and resume: [Here](https://fazza.fr)  
 
 ## 📜 Conference Proceedings
 
@@ -46,9 +46,8 @@ Published paper presenting the design of a self-balancing robot using PID and co
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Fazza Fakhri](https://www.linkedin.com/in/fazzafakhri/)
-- GitHub: [FZFR](https://github.com/FZFR)  
-- Email: [me@fazza.fr](mailto:me@fazza.fr)
+- [LinkedIn](https://www.linkedin.com/in/fazzafakhri/)
+- [Email](mailto:me@fazza.fr)
 - Personal blog: [fazza.fr](https://fazza.fr)
 
 
