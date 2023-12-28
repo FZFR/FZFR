@@ -32,23 +32,5 @@ Heya! I'm a guy who codes in both low-level and high-level languages. I have 8+ 
 
 I have some cool confidential projects in the works that leverage my engineering skills. Let's just say they're going to be game-changers and leave it at that. While I can't share the details yet, they involve solving complex problems in innovative ways. 😉
 
-## 📃 CV and Resume  
-
-You can find my CV and resume: [Here](https://fazza.fr)  
-
-## 📜 Conference Proceedings
-
-**IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)**
-
-[Design of Self-Balancing Virtual Reality Robot Using PID Control Method and Complementary Filter](https://ieeexplore.ieee.org/document/9532576)
-
-Published paper presenting the design of a self-balancing robot using PID and complementary filter methods, with virtual reality capabilities.
-
-## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/fazzafakhri/)
-- [Email](mailto:me@fazza.fr)
-- Personal blog: [fazza.fr](https://fazza.fr)
-
 
 Holla at your boy if you need some serious engineering and technology skills! I'm open to opportunities where I can contribute my skills to impactful projects (though any job switch would require a 1-2 month notice period). Feel free to reach out!
