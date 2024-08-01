@@ -12,7 +12,7 @@
 
 <div align="center">
  <picture>
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
+  <img src="https://gifdb.com/images/high/master-chief-498-x-322-gif-j6upyol6655qlq91.webp" width="322px">
  </picture>
  <h2>About Me</h2>  
 </div>
