@@ -19,18 +19,24 @@
 
 <div align="center"><b>Motto: <br/> "A natural problem solver. Driven by the challenge of finding solutions to complex problems"</b></div>  
 <br />
-Heya! I'm a guy who codes in both low-level and high-level languages. I have 8+ years of experience as a technology professional in the IT industry, but I don't claim to be an elite hacker manipulating butterflies to direct cosmic rays onto my hard drive platter or anything like that. I'm just a 0.01xer night owl peasant whose brain has a hard time shutting off.
+
+10+ years in IT, but I'm not the type to claim I'm some elite hacker manipulating butterflies to redirect cosmic rays onto my hard drive. Just a regular night owl whose brain refuses to shut off.
+
+Weekends? Either somewhere on a trail with my KTM coming home bruised but happy, or grinding and vibing with games until my eyes hurt. Here be my steam account [STEAM](https://steamcommunity.com/id/Shir0Yasha07/)  
 
 ## 🛠 Technical Skills
-- Languages: Assembly, Rust, Go, C, C++, C#, Java, Python, R, Sundanese, Javanese, Bahasa Indonesia, English, etc. I'm pretty much a polyglot. Jack of all trades, master of none — though I cook up the tastiest code recipes with Rust, Go, and C# as my secret ingredients.
-- Frameworks: Spring Boot, React, Node.js, Rocket, Actix, Warp - Name a framework, I've likely used it.
-- Cloud: AWS, GCP, Azure, DO, Vultr, Hetzner, Eranyacloud, BiznetGio, IDCloudhost, all of 'em - If it runs on *nix I can architect cloud-native infrastructure, leveraging HA best practices with automatic failover capabilities.
-- Databases: PostgreSQL, MySQL, MongoDB, Neo4j, etc. I use whatever works best for the project.   
-- Tools: Git, Docker, Kubernetes, Ansible, Terraform, Linux, EnergyPlus, OpenFOAM, CODESYS, etc. I have a tool for every task. Also, mechanical keyboard with blue switches for that symphony of clickity-clackity tunes.
 
-## 🚀 Projects
+- **Languages:** Assembly, Rust, Go, C, C++, C#, Java, Python, R, MATLAB, plus Sundanese, Javanese, Indonesian, and English. Polyglot in both code and conversation. Jack of all trades, master of none, though Rust, Go, and C# are my comfort zone.
+- **Frameworks:** Spring Boot, Rocket, Actix, Warp, FastAPI, Next.js, Flutter. Name a framework, I've probably touched it.
+- **Cloud:** AWS, GCP, Azure, Huawei Cloud, DigitalOcean, Vultr, Hetzner, and various local providers (Eranyacloud, BiznetGio, IDCloudhost (warren.io)). If it runs on *nix, I can architect it with HA and automatic failover.
+- **Databases:** PostgreSQL, MySQL, MariaDB (yes, even though it's a MySQL fork, they're different enough), MongoDB, Redis, Neo4j, Elasticsearch. Whatever fits the job. RabbitMQ when I need queues.
+- **Infra & DevOps:** Kubernetes, Docker, Terraform, Ansible, Helm, Kustomize, ArgoCD, GitHub Actions, GitLab Runner, Git, Linux. Nginx, HAProxy, or Caddy for web servers depending on the mood.
+- **Observability:** ELK Stack, Grafana, Prometheus, Datadog APM, Datadog Vector. If something breaks at 3am, I'm the one getting paged, and I'll know exactly where to look.
+- **Simulation & Engineering:** EnergyPlus, OpenFOAM, OpenStudio, CODESYS, Mike21, HoneyBee, Grasshopper, COMSOL Multiphysics. Building energy modeling, CFD, PLC programming, oil spill simulations, multiphysics modeling. Yeah, it's a weird combo.
+- **Hardware & PCB:** Eagle, Proteus, NI Multisim. Tinkering with circuits when software gets boring.
+- **Robotics & Instrumentation:** Intel 8051 (custom build microcontroller), Arduino, Raspberry Pi, Teensy, various sensors and actuators. Engineering Physics background with focus on instrumentation and control. Built a self-balancing Virtual Reality robot, published at 2021 IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)
+- **Other stuff:** A mechanical keyboard with blue switches for that symphony of clickity-clack.
 
-I have some cool confidential projects in the works that leverage my engineering skills. Let's just say they're going to be game-changers and leave it at that. While I can't share the details yet, they involve solving complex problems in innovative ways. 😉
+## Current Situation
 
-
-Holla at your boy if you need some serious engineering and technology skills! I'm open to opportunities where I can contribute my skills to impactful projects (though any job switch would require a 1-2 month notice period). Feel free to reach out!
+Open to interesting opportunities, particularly remote roles where the engineering challenges are real and the compensation matches. Hit me up, but expect 1-2 months notice period.
